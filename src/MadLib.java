@@ -50,8 +50,8 @@ public class MadLib {
                 +miltonDean+ " said it actually has only happened "
                 + number2+" times. Wish us luck! If we survive, we will earn a "
                 +letterGrade+ "- in P.E. class.";
+                System.out.println(story);
 
-        System.out.println(story);
 
 
 
